@@ -1,0 +1,11 @@
+{
+    "module_name": "Alt Tab",
+    "maintainer": "hbmorrison",
+    "license": "Apache-2.0",
+    "url": "https://github.com/hbmorrison/qmk_alt_tab.git",
+    "features": {},
+    "keycodes": [
+        { "key": "ALT_TAB_NEXT_WINDOW",     "aliases": ["AT_NWIN"] },
+        { "key": "ALT_TAB_PREVIOUS_WINDOW", "aliases": ["AT_PWIN"] }
+    ]
+}
