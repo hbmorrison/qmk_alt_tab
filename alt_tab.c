@@ -12,7 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#include "alt_tab.h"
+#include QMK_KEYBOARD_H
 
 // True if Windows alt-tab behaviour is being processed.
 
